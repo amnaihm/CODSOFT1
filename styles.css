@@ -1,0 +1,213 @@
+/* headings */
+.h1,h2,h3,h4,h5{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 50px;
+}
+h6{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 25px;
+}
+
+
+
+
+
+
+/* navbarsection */
+.navbar{
+    height: 90px;
+    font-family: 'Montserrat', sans-serif; 
+    padding-right: 70px;
+    background-color: 	#A52A2A;
+}
+.navbar-brand{
+    font-size: 25px !important;
+    padding-left: 70px;
+    font-weight: bold;
+} 
+
+
+
+
+
+/* Websection1ofpersonaldeatailsandphoto */
+.websection1{
+    padding-top: 60px;
+    background-color: #FFF5EE; /*seashell*/
+    display: flex;
+    justify-content: space-around;
+}
+/* leftwebsection1 divs */
+.contact{
+    text-align: left;
+    width: 100%;
+    color: #3A3B3C;
+    font-size: 1rem;
+    padding: 40px 5px 5px 80px;
+}
+.introinwebsect1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.15rem;
+    padding: 80px 60px 5px 50px;
+}
+.nameline{
+    font-weight: bolder;
+    display: block;
+    font-family: 'Roboto Mono', monospace;
+}
+.hello{
+    display: block;
+}
+/* profilepicture */
+.redcircle{
+    margin-right: 80px;
+    width: 350px;
+    height: 350px;
+    margin-top: 80px;
+}
+.profilephoto{
+    position: relative;
+    left: 35px;
+    bottom: 315px;
+    width: 280px;
+    height: 280px;
+}
+/* leaveamessagebutton */
+.buttoncontainer{
+    font-family: 'Open Sans', sans-serif;
+    /* font-size: 0.5rem; */
+    margin-left: 50px;
+    margin-bottom: 80px;
+    display: flex;
+    /* height: 45px;
+    width: 250px; */
+}
+
+
+
+
+
+
+/* websection2ofaboutme */
+.websection2{
+    background-color: #FAEBD7; /*antiquewhite */
+    padding-left: 40px;
+    padding-right: 80px;
+    font-size: 1.15rem;
+    padding-bottom: 50px;
+}
+.aboutmepara{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+/* websection3ofeducation */
+.websection3{
+    background-color: #FFF5EE; /*seashell*/
+    padding-left: 40px;
+    font-size: 1.15rem;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+/* logos */
+.logo{
+    width: 110px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+/* websection4ofskills */
+.websection4{
+    background-color: #FAEBD7;
+    padding-left: 40px;
+    height: 800px;
+    overflow: hidden;
+}
+.rightskills{
+    float: left;
+    padding-left: 200px;
+} 
+ .leftskills{
+    float: right;
+    position: relative;
+    padding-right: 200px;
+}
+/* skillphotos */
+.skillimg{
+    width: 100px;
+    /* margin-top: 30px; */
+}
+/* .container {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+} */
+
+
+
+
+/* websection6ofprojects */
+.websection6{
+    background-color: #FFF5EE; /*seashell*/
+    padding-left: 40px;
+    font-size: 1.15rem;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+
+
+
+/* websection5ofcarousel */
+#proposalcarousel{
+    background-color: #F5C6A5;
+    color: #2B2D2F;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.carouselimg{
+    width: 300px;
+    padding-top: 40px;
+}
+
+
+
+
+
+
+/* footer */
+.footer{
+    font-size: 1.15rem;
+    padding: 7% 15% 0;
+    background-color: #FFF5EE;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.icons{
+    padding-top: 60px;
+}
+
+
+
+
+
+
+
+
+
